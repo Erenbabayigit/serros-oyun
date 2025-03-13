@@ -1,0 +1,1658 @@
+{
+    "easy": [
+      {
+        "id": 1,
+        "question": "Araç kullanırken aşağıdakilerden hangisinin yapılması yasaktır?",
+        "options": [
+          "Hız sınırlarına uymak",
+          "Cep telefonu ile konuşmak",
+          "Emniyet kemeri takmak",
+          "Trafik işaretlerine uymak"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 2,
+        "question": "Kalp masajı uygulaması yapılırken göğüs kemiği kaç cm aşağı inecek şekilde baskı uygulanmalıdır?",
+        "options": [
+          "1-2 cm",
+          "2-3 cm",
+          "5-6 cm",
+          "7-8 cm"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 3,
+        "question": "Hangi durumda araç sürücüsü yaya geçidinde yayalara yol vermelidir?",
+        "options": [
+          "Sadece okul geçitlerinde",
+          "Sadece yeşil ışıkta",
+          "Her zaman",
+          "Sadece yaya yoğunluğu varsa"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 4,
+        "question": "Araçlarda ilk yardım çantası bulundurmak zorunlu mudur?",
+        "options": [
+          "Hayır, isteğe bağlıdır",
+          "Evet, zorunludur",
+          "Sadece şehirlerarası yolculuklarda zorunludur",
+          "Sadece ticari araçlarda zorunludur"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 5,
+        "question": "Aşağıdakilerden hangisi trafik işaret levhalarından 'tehlike uyarı işaretleri' grubuna girer?",
+        "options": [
+          "Yeşil zemin üzerine beyaz yazılı levha",
+          "Kırmızı zemin üzerine beyaz yazılı levha",
+          "Sarı zemin üzerine siyah şekilli levha",
+          "Mavi zemin üzerine beyaz yazılı levha"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 6,
+        "question": "Kaza yapan bir aracın arka güvenlik ışıkları yanıp sönüyorsa sürücünün ilk yapması gereken nedir?",
+        "options": [
+          "Kaza yerini işaretlemek",
+          "Yaralıları taşımak",
+          "Yakıtı kontrol etmek",
+          "Polisi aramak"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 7,
+        "question": "Trafik işaretlerinde mavi zemin üzerine beyaz yazı veya sembol hangi anlamdadır?",
+        "options": [
+          "Tehlike uyarısı",
+          "Bilgi verme",
+          "Yasaklama",
+          "Yönlendirme"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 8,
+        "question": "Yetişkinlerde kalp masajı ve suni solunum uygulaması kaç dakika süre ile yapılır?",
+        "options": [
+          "5 dakika",
+          "10 dakika",
+          "15 dakika",
+          "Tıbbi yardım gelene kadar"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 9,
+        "question": "Aşağıdakilerden hangisi trafik kazasının oluşmasında insan faktörü değildir?",
+        "options": [
+          "Uykusuz araç kullanmak",
+          "Yolun buzlu olması",
+          "Alkollü araç kullanmak",
+          "Kırmızı ışıkta geçmek"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 10,
+        "question": "Kaza yerinde yaralının değerlendirilmesinde ilk yapılması gereken nedir?",
+        "options": [
+          "Kanama kontrolü",
+          "Bilinç kontrolü",
+          "Nabzın kontrolü",
+          "Kırık kontrolü"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 11,
+        "question": "İlk yardımın temel uygulamaları hangi sıra ile yapılır?",
+        "options": [
+          "Koruma - Bildirme - Kurtarma",
+          "Bildirme - Koruma - Kurtarma",
+          "Kurtarma - Koruma - Bildirme",
+          "Koruma - Kurtarma - Bildirme"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 12,
+        "question": "Yaya kaldırımı olmayan yollarda yayalar nereden yürümelidir?",
+        "options": [
+          "Yolun ortasından",
+          "Trafik akış yönünde sağdan",
+          "Trafik akış yönüne ters yönde soldan",
+          "Yolun herhangi bir yerinden"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 13,
+        "question": "Bir kaza anında aşağıdakilerden hangisini yapmak yanlıştır?",
+        "options": [
+          "Kaza yerini işaretlemek",
+          "Yaralıları hızlıca araçtan çıkarmak",
+          "112'yi aramak",
+          "Güvenliği sağlamak"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 14,
+        "question": "Hangi durumda emniyet kemeri takmak zorunlu değildir?",
+        "options": [
+          "Park halindeyken",
+          "Hızlı yolda giderken",
+          "Şehir içinde giderken",
+          "Otobanda giderken"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 15,
+        "question": "Aşağıdakilerden hangisi ilk yardım çantasında bulunmaz?",
+        "options": [
+          "Steril gazlı bez",
+          "Antibiyotik ilaçlar",
+          "Yara bandı",
+          "Makas"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 16,
+        "question": "Motorlu bisiklet, motosiklet ve sürücülerinin günleri nasıl olmalıdır?",
+        "options": [
+          "Koyu renk",
+          "Açık renk",
+          "Fosforlu ve parlak renk",
+          "Kendi tercihlerine göre"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 17,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 18,
+        "question": "Araç kullanırken aşağıdakilerden hangisinin yapılması yasaktır?",
+        "options": [
+          "Hız sınırlarına uymak",
+          "Cep telefonu ile konuşmak",
+          "Emniyet kemeri takmak",
+          "Trafik işaretlerine uymak"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 19,
+        "question": "Kalp masajı uygulaması yapılırken göğüs kemiği kaç cm aşağı inecek şekilde baskı uygulanmalıdır?",
+        "options": [
+          "1-2 cm",
+          "2-3 cm",
+          "5-6 cm",
+          "7-8 cm"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 20,
+        "question": "Hangi durumda araç sürücüsü yaya geçidinde yayalara yol vermelidir?",
+        "options": [
+          "Sadece okul geçitlerinde",
+          "Sadece yeşil ışıkta",
+          "Her zaman",
+          "Sadece yaya yoğunluğu varsa"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 21,
+        "question": "Araçlarda ilk yardım çantası bulundurmak zorunlu mudur?",
+        "options": [
+          "Hayır, isteğe bağlıdır",
+          "Evet, zorunludur",
+          "Sadece şehirlerarası yolculuklarda zorunludur",
+          "Sadece ticari araçlarda zorunludur"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 22,
+        "question": "Aşağıdakilerden hangisi trafik işaret levhalarından 'tehlike uyarı işaretleri' grubuna girer?",
+        "options": [
+          "Yeşil zemin üzerine beyaz yazılı levha",
+          "Kırmızı zemin üzerine beyaz yazılı levha",
+          "Sarı zemin üzerine siyah şekilli levha",
+          "Mavi zemin üzerine beyaz yazılı levha"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 23,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 24,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 25,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 26,
+        "question": "Aşağıdakilerden hangisi trafik kazalarının önlenmesinde sürücünün sorumluluğu değildir?",
+        "options": [
+          "Trafik kurallarına uymak",
+          "Araç bakımını yapmak",
+          "Yol bakımını yapmak",
+          "Güvenli mesafeyi korumak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 27,
+        "question": "Kaza sonrası yaralının taşınmasında en önemli kural nedir?",
+        "options": [
+          "Hızlı olmak",
+          "Omuriliği zedelememek",
+          "Yaralıyı sıcak tutmak",
+          "Yaralıyı teselli etmek"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 28,
+        "question": "Trafik kazası sonrası yaralının bilinci kapalı ise hangi pozisyonda bekletilmelidir?",
+        "options": [
+          "Yan yatış pozisyonu",
+          "Sırtüstü pozisyon",
+          "Oturur pozisyon",
+          "Yüzüstü pozisyon"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 29,
+        "question": "Trafik kazasında yaralıların taşınması sırasında dikkat edilmesi gereken en önemli kural nedir?",
+        "options": [
+          "Hızlı olmak",
+          "Yaralıyı sürüklemek",
+          "Yaralıyı dikkatli taşımak",
+          "Yaralıyı hemen hastaneye götürmek"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 30,
+        "question": "Aşağıdakilerden hangisi trafik kazası sonrası yapılması gereken ilk yardım uygulamalarından biri değildir?",
+        "options": [
+          "Yaralıyı sakinleştirmek",
+          "Yaralıyı hemen hastaneye götürmek",
+          "Yaralıyı sıcak tutmak",
+          "Yaralıya suni solunum yapmak"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 31,
+        "question": "Trafik kazası sonrası yaralının taşınmasında hangi durumlarda dikkatli olunmalıdır?",
+        "options": [
+          "Yaralının bilinci kapalı ise",
+          "Yaralının hareket edememesi durumunda",
+          "Yaralının kanaması varsa",
+          "Hepsi"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 32,
+        "question": "Kaza sonrası yaralıda şok pozisyonu nasıl olmalıdır?",
+        "options": [
+          "Baş yukarıda, ayaklar aşağıda",
+          "Baş aşağıda, ayaklar yukarıda",
+          "Yüzüstü pozisyonda",
+          "Yan yatış pozisyonunda"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 33,
+        "question": "Trafik kazası sonrası yaralının bilinci kapalı ise hangi pozisyonda bekletilmelidir?",
+        "options": [
+          "Yan yatış pozisyonu",
+          "Sırtüstü pozisyon",
+          "Oturur pozisyon",
+          "Yüzüstü pozisyon"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 34,
+        "question": "Trafik kazasında yaralıların taşınması sırasında dikkat edilmesi gereken en önemli kural nedir?",
+        "options": [
+          "Hızlı olmak",
+          "Yaralıyı sürüklemek",
+          "Yaralıyı dikkatli taşımak",
+          "Yaralıyı hemen hastaneye götürmek"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 35,
+        "question": "Aşağıdakilerden hangisi trafik kazası sonrası yapılması gereken ilk yardım uygulamalarından biri değildir?",
+        "options": [
+          "Yaralıyı sakinleştirmek",
+          "Yaralıyı hemen hastaneye götürmek",
+          "Yaralıyı sıcak tutmak",
+          "Yaralıya suni solunum yapmak"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 36,
+        "question": "Trafik kazası sonrası yaralının taşınmasında hangi durumlarda dikkatli olunmalıdır?",
+        "options": [
+          "Yaralının bilinci kapalı ise",
+          "Yaralının hareket edememesi durumunda",
+          "Yaralının kanaması varsa",
+          "Hepsi"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 37,
+        "question": "Kaza sonrası yaralıda şok pozisyonu nasıl olmalıdır?",
+        "options": [
+          "Baş yukarıda, ayaklar aşağıda",
+          "Baş aşağıda, ayaklar yukarıda",
+          "Yüzüstü pozisyonda",
+          "Yan yatış pozisyonunda"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 38,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 39,
+        "question": "Trafik kazasında yaralıların taşınması sırasında dikkat edilmesi gereken en önemli kural nedir?",
+        "options": [
+          "Hızlı olmak",
+          "Yaralıyı sürüklemek",
+          "Yaralıyı dikkatli taşımak",
+          "Yaralıyı hemen hastaneye götürmek"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 40,
+        "question": "Aşağıdakilerden hangisi trafik kazası sonrası yapılması gereken ilk yardım uygulamalarından biri değildir?",
+        "options": [
+          "Yaralıyı sakinleştirmek",
+          "Yaralıyı hemen hastaneye götürmek",
+          "Yaralıyı sıcak tutmak",
+          "Yaralıya suni solunum yapmak"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 41,
+        "question": "Trafik kazası sonrası yaralının taşınmasında hangi durumlarda dikkatli olunmalıdır?",
+        "options": [
+          "Yaralının bilinci kapalı ise",
+          "Yaralının hareket edememesi durumunda",
+          "Yaralının kanaması varsa",
+          "Hepsi"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 42,
+        "question": "Kaza sonrası yaralıda şok pozisyonu nasıl olmalıdır?",
+        "options": [
+          "Baş yukarıda, ayaklar aşağıda",
+          "Baş aşağıda, ayaklar yukarıda",
+          "Yüzüstü pozisyonda",
+          "Yan yatış pozisyonunda"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 43,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 44,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 45,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 46,
+        "question": "Aşağıdakilerden hangisi trafik kazalarının önlenmesinde sürücünün sorumluluğu değildir?",
+        "options": [
+          "Trafik kurallarına uymak",
+          "Araç bakımını yapmak",
+          "Yol bakımını yapmak",
+          "Güvenli mesafeyi korumak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 47,
+        "question": "Kaza sonrası yaralının değerlendirilmesinde ilk yapılması gereken nedir?",
+        "options": [
+          "Kanama kontrolü",
+          "Bilinç kontrolü",
+          "Nabzın kontrolü",
+          "Kırık kontrolü"
+        ],
+        "correctAnswer": 1  
+      },
+      {
+        "id": 48,
+        "question": "Trafik kazası sonrası yaralının taşınmasında hangi durumlarda dikkatli olunmalıdır?",
+        "options": [
+          "Yaralının bilinci kapalı ise",
+          "Yaralının hareket edememesi durumunda",
+          "Yaralının kanaması varsa",
+          "Hepsi"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 49,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 50,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      }
+    ],
+    "medium": [
+      {
+        "id": 1,
+        "question": "Aşağıdakilerden hangisi, trafik kazalarının önlenmesinde en önemli unsurdur?",
+        "options": [
+          "Sürücü eğitimi",
+          "Trafik işaretleri",
+          "Yol durumu",
+          "Araç bakımı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 2,
+        "question": "Kavşaklara yaklaşırken kaç metre kala şerit değiştirmek yasaktır?",
+        "options": [
+          "50 metre",
+          "100 metre",
+          "150 metre",
+          "200 metre"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 3,
+        "question": "Hangi durumda araç kullanmak trafik güvenliği açısından tehlikelidir?",
+        "options": [
+          "0.50 promil alkollü",
+          "Yorgun ve uykusuz",
+          "Aşırı sinirli ve stresli",
+          "Hepsi"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 4,
+        "question": "Otoyolda asgari (en düşük) hız sınırı kaç km/saattir?",
+        "options": [
+          "40",
+          "50",
+          "60",
+          "70"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 5,
+        "question": "Trafik kazası gerekli birimlere kaç saat içinde bildirilmelidir?",
+        "options": [
+          "12 saat",
+          "24 saat",
+          "48 saat",
+          "72 saat"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 6,
+        "question": "Trafik işaretlerinde mavi zemin üzerine beyaz yazı veya sembol hangi anlamdadır?",
+        "options": [
+          "Tehlike uyarısı",
+          "Bilgi verme",
+          "Yasaklama",
+          "Yönlendirme"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 7,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 8,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 9,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 10,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 11,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 12,
+        "question": "Trafik kazası sonrası yaralının taşınmasında hangi durumlarda dikkatli olunmalıdır?",
+        "options": [
+          "Yaralının bilinci kapalı ise",
+          "Yaralının hareket edememesi durumunda",
+          "Yaralının kanaması varsa",
+          "Hepsi"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 13,
+        "question": "Trafik kazası sonrası yaralının bilinci kapalı ise hangi pozisyonda bekletilmelidir?",
+        "options": [
+          "Yan yatış pozisyonu",
+          "Sırtüstü pozisyon",
+          "Oturur pozisyon",
+          "Yüzüstü pozisyon"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 14,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 15,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 16,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 17,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 18,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 19,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 20,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 21,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 22,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 23,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 24,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 25,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 26,
+        "question": "Aşağıdakilerden hangisi trafik kazalarının önlenmesinde sürücünün sorumluluğu değildir?",
+        "options": [
+          "Trafik kurallarına uymak",
+          "Araç bakımını yapmak",
+          "Yol bakımını yapmak",
+          "Güvenli mesafeyi korumak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 27,
+        "question": "Kaza sonrası yaralının taşınmasında en önemli kural nedir?",
+        "options": [
+          "Hızlı olmak",
+          "Omuriliği zedelememek",
+          "Yaralıyı sıcak tutmak",
+          "Yaralıyı teselli etmek"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 28,
+        "question": "Trafik kazası sonrası yaralının bilinci kapalı ise hangi pozisyonda bekletilmelidir?",
+        "options": [
+          "Yan yatış pozisyonu",
+          "Sırtüstü pozisyon",
+          "Oturur pozisyon",
+          "Yüzüstü pozisyon"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 29,
+        "question": "Trafik kazasında yaralıların taşınması sırasında dikkat edilmesi gereken en önemli kural nedir?",
+        "options": [
+          "Hızlı olmak",
+          "Yaralıyı sürüklemek",
+          "Yaralıyı dikkatli taşımak",
+          "Yaralıyı hemen hastaneye götürmek"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 30,
+        "question": "Aşağıdakilerden hangisi trafik kazası sonrası yapılması gereken ilk yardım uygulamalarından biri değildir?",
+        "options": [
+          "Yaralıyı sakinleştirmek",
+          "Yaralıyı hemen hastaneye götürmek",
+          "Yaralıyı sıcak tutmak",
+          "Yaralıya suni solunum yapmak"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 31,
+        "question": "Trafik kazası sonrası yaralının taşınmasında hangi durumlarda dikkatli olunmalıdır?",
+        "options": [
+          "Yaralının bilinci kapalı ise",
+          "Yaralının hareket edememesi durumunda",
+          "Yaralının kanaması varsa",
+          "Hepsi"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 32,
+        "question": "Kaza sonrası yaralıda şok pozisyonu nasıl olmalıdır?",
+        "options": [
+          "Baş yukarıda, ayaklar aşağıda",
+          "Baş aşağıda, ayaklar yukarıda",
+          "Yüzüstü pozisyonda",
+          "Yan yatış pozisyonunda"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 33,
+        "question": "Trafik kazası sonrası yaralının bilinci kapalı ise hangi pozisyonda bekletilmelidir?",
+        "options": [
+          "Yan yatış pozisyonu",
+          "Sırtüstü pozisyon",
+          "Oturur pozisyon",
+          "Yüzüstü pozisyon"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 34,
+        "question": "Trafik kazasında yaralıların taşınması sırasında dikkat edilmesi gereken en önemli kural nedir?",
+        "options": [
+          "Hızlı olmak",
+          "Yaralıyı sürüklemek",
+          "Yaralıyı dikkatli taşımak",
+          "Yaralıyı hemen hastaneye götürmek"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 35,
+        "question": "Aşağıdakilerden hangisi trafik kazası sonrası yapılması gereken ilk yardım uygulamalarından biri değildir?",
+        "options": [
+          "Yaralıyı sakinleştirmek",
+          "Yaralıyı hemen hastaneye götürmek",
+          "Yaralıyı sıcak tutmak",
+          "Yaralıya suni solunum yapmak"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 36,
+        "question": "Trafik kazası sonrası yaralının taşınmasında hangi durumlarda dikkatli olunmalıdır?",
+        "options": [
+          "Yaralının bilinci kapalı ise",
+          "Yaralının hareket edememesi durumunda",
+          "Yaralının kanaması varsa",
+          "Hepsi"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 37,
+        "question": "Kaza sonrası yaralıda şok pozisyonu nasıl olmalıdır?",
+        "options": [
+          "Baş yukarıda, ayaklar aşağıda",
+          "Baş aşağıda, ayaklar yukarıda",
+          "Yüzüstü pozisyonda",
+          "Yan yatış pozisyonunda"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 38,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 39,
+        "question": "Trafik kazası sonrası yaralının taşınmasında hangi durumlarda dikkatli olunmalıdır?",
+        "options": [
+          "Yaralının bilinci kapalı ise",
+          "Yaralının hareket edememesi durumunda",
+          "Yaralının kanaması varsa",
+          "Hepsi"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 40,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken hangi durum öncelikli olarak kontrol edilmelidir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 41,
+        "question": "Trafik kazası sonrası yaralının taşınmasında en önemli kural nedir?",
+        "options": [
+          "Hızlı olmak",
+          "Yaralıyı dikkatli taşımak",
+          "Yaralıyı hemen hastaneye götürmek",
+          "Yaralıyı sürüklemek"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 42,
+        "question": "Trafik kazası sonrası yaralının bilinci kapalı ise hangi pozisyonda bekletilmelidir?",
+        "options": [
+          "Yan yatış pozisyonu",
+          "Sırtüstü pozisyon",
+          "Oturur pozisyon",
+          "Yüzüstü pozisyon"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 43,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 44,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 45,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 46,
+        "question": "Trafik kazası sonrası yaralının taşınmasında hangi durumlarda dikkatli olunmalıdır?",
+        "options": [
+          "Yaralının bilinci kapalı ise",
+          "Yaralının hareket edememesi durumunda",
+          "Yaralının kanaması varsa",
+          "Hepsi"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 47,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 48,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 49,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 50,
+        "question": "Trafik kazası sonrası yaralının taşınmasında hangi durumlarda dikkatli olunmalıdır?",
+        "options": [
+          "Yaralının bilinci kapalı ise",
+          "Yaralının hareket edememesi durumunda",
+          "Yaralının kanaması varsa",
+          "Hepsi"
+        ],
+        "correctAnswer": 3
+      }
+    ],
+    "hard": [
+      {
+        "id": 1,
+        "question": "Trafik kazası sonrası ilk yardımda en önemli adım nedir?",
+        "options": [
+          "Yaralıyı taşımak",
+          "Güvenliği sağlamak",
+          "112'yi aramak",
+          "Yaralıya müdahale etmek"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 2,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 3,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 4,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 5,
+        "question": "Trafik kazası sonrası yaralının taşınmasında hangi durumlarda dikkatli olunmalıdır?",
+        "options": [
+          "Yaralının bilinci kapalı ise",
+          "Yaralının hareket edememesi durumunda",
+          "Yaralının kanaması varsa",
+          "Hepsi"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 6,
+        "question": "Trafik kazası sonrası yaralının bilinci kapalı ise hangi pozisyonda bekletilmelidir?",
+        "options": [
+          "Yan yatış pozisyonu",
+          "Sırtüstü pozisyon",
+          "Oturur pozisyon",
+          "Yüzüstü pozisyon"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 7,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 8,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 9,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 10,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 11,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 12,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 13,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 14,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 15,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 16,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 17,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 18,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 19,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 20,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 21,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 22,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 23,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 24,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      },{
+        "id": 25,
+        "question": "Bir trafik kazasında yaralının bilinci kapalıysa, hangi pozisyonda bekletilmelidir?",
+        "options": [
+          "Yan yatış pozisyonu",
+          "Sırtüstü pozisyon",
+          "Oturur pozisyon",
+          "Yüzüstü pozisyon"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 26,
+        "question": "Trafik kazası sonrası yaralının taşınmasında en önemli kural nedir?",
+        "options": [
+          "Hızlı olmak",
+          "Omuriliği zedelememek",
+          "Yaralıyı sıcak tutmak",
+          "Yaralıyı teselli etmek"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 27,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 28,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 29,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 30,
+        "question": "Trafik kazası sonrası yaralının bilinci kapalı ise hangi pozisyonda bekletilmelidir?",
+        "options": [
+          "Yan yatış pozisyonu",
+          "Sırtüstü pozisyon",
+          "Oturur pozisyon",
+          "Yüzüstü pozisyon"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 31,
+        "question": "Trafik kazası sonrası yaralının taşınmasında hangi durumlarda dikkatli olunmalıdır?",
+        "options": [
+          "Yaralının bilinci kapalı ise",
+          "Yaralının hareket edememesi durumunda",
+          "Yaralının kanaması varsa",
+          "Hepsi"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 32,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken hangi durum öncelikli olarak kontrol edilmelidir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 33,
+        "question": "Trafik kazası sonrası yaralının taşınmasında en önemli kural nedir?",
+        "options": [
+          "Hızlı olmak",
+          "Yaralıyı dikkatli taşımak",
+          "Yaralıyı hemen hastaneye götürmek",
+          "Yaralıyı sürüklemek"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 34,
+        "question": "Trafik kazası sonrası yaralının bilinci kapalı ise hangi pozisyonda bekletilmelidir?",
+        "options": [
+          "Yan yatış pozisyonu",
+          "Sırtüstü pozisyon",
+          "Oturur pozisyon",
+          "Yüzüstü pozisyon"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 35,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 36,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 37,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 38,
+        "question": "Trafik kazası sonrası yaralının taşınmasında hangi durumlarda dikkatli olunmalıdır?",
+        "options": [
+          "Yaralının bilinci kapalı ise",
+          "Yaralının hareket edememesi durumunda",
+          "Yaralının kanaması varsa",
+          "Hepsi"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 39,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 40,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 41,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 42,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken hangi durum öncelikli olarak kontrol edilmelidir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 43,
+        "question": "Trafik kazası sonrası yaralının taşınmasında en önemli kural nedir?",
+        "options": [
+          "Hızlı olmak",
+          "Yaralıyı dikkatli taşımak",
+          "Yaralıyı hemen hastaneye götürmek",
+          "Yaralıyı sürüklemek"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 44,
+        "question": "Trafik kazası sonrası yaralının bilinci kapalı ise hangi pozisyonda bekletilmelidir?",
+        "options": [
+          "Yan yatış pozisyonu",
+          "Sırtüstü pozisyon",
+          "Oturur pozisyon",
+          "Yüzüstü pozisyon"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 45,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 46,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 47,
+        "question": "Trafik kazasında yaralıya ilk yardım yapılmasına gerek görülmüyorsa, yaralı yerinden çıkarılmamalıdır. Bu durumda yaralının öncelikle;",
+        "options": [
+          "Üzeri örtülmelidir",
+          "Nabzı ölçülmelidir",
+          "Kusturulmalıdır",
+          "Yaşam bulguları değerlendirilmelidir"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 48,
+        "question": "Trafik kazası sonrası yaralının taşınmasında hangi durumlarda dikkatli olunmalıdır?",
+        "options": [
+          "Yaralının bilinci kapalı ise",
+          "Yaralının hareket edememesi durumunda",
+          "Yaralının kanaması varsa",
+          "Hepsi"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 49,
+        "question": "Trafik kazası sonrası yaralının durumu değerlendirilirken ilk bakılması gereken nedir?",
+        "options": [
+          "Bilinç durumu",
+          "Kırık durumu",
+          "Kanama durumu",
+          "Vücut ısısı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 50,
+        "question": "Trafik kazası sonrası olay yerinde yangın tehlikesi varsa ilk yapılması gereken nedir?",
+        "options": [
+          "Yaralıları hızla taşımak",
+          "Yangın söndürme cihazını kullanmak",
+          "Yakıt vanalarını kapatmak",
+          "112'yi aramak"
+        ],
+        "correctAnswer": 2
+      }
+    ]
+  }
+  

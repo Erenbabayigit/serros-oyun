@@ -113,7 +113,6 @@
 </template>
 
 <script>
-import axios from 'axios';
 import confetti from 'canvas-confetti'; // Konfeti kütüphanesini içe aktar
 
 export default {
@@ -146,28 +145,33 @@ export default {
     }
   },
   methods: {
-    async fetchQuestions() {
-      this.loading = true;
-      this.error = null; // Clear previous error
-      try {
-        const response = await axios.get(`http://localhost:3001/${this.selectedDifficulty}`);
-        this.questions = response.data; // Soruları yükle
-        if (this.questions.length < 50) {
-          // If there are not enough questions, do not set an error
-          if (this.selectedDifficulty !== 'trafik levhaları') {
-            throw new Error('Her zorluk seviyesinde 50 soru bulunamadı.');
-          }
-        }
-        this.shuffleQuestions(); // Shuffle questions after fetching
-      } catch (err) {
-        // Only set the error if it's not the "trafik levhaları" difficulty
+  async fetchQuestions() {
+    this.loading = true;
+    this.error = null; // Clear previous error
+    try {
+      // Statik JSON dosyasını kullan
+      const response = await fetch('/db.json');
+      const data = await response.json();
+      
+      // Seçilen zorluğa göre soruları filtrele
+      this.questions = data[this.selectedDifficulty] || [];
+      
+      if (this.questions.length < 50) {
+        // If there are not enough questions, do not set an error
         if (this.selectedDifficulty !== 'trafik levhaları') {
-          this.error = 'Sorular yüklenirken bir hata oluştu. Lütfen tekrar deneyin.';
+          throw new Error('Her zorluk seviyesinde 50 soru bulunamadı.');
         }
-      } finally {
-        this.loading = false;
       }
-    },
+      this.shuffleQuestions(); // Shuffle questions after fetching
+    } catch (err) {
+      // Only set the error if it's not the "trafik levhaları" difficulty
+      if (this.selectedDifficulty !== 'trafik levhaları') {
+        this.error = 'Sorular yüklenirken bir hata oluştu. Lütfen tekrar deneyin.';
+      }
+    } finally {
+      this.loading = false;
+    }
+  },
 
     shuffleQuestions() {
       // Shuffle the questions array
